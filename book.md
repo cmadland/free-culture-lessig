@@ -1,4 +1,4 @@
-This platform independent text only ASCII version of Free Culture is licensed under a Creative Commons license. This license permits
+This platform independent text only ASCII version of Free Culture is licensed under a Creative Commons license. This license permits me to
 non-commercial use of this work, so long as attribution is given.
 For more information about the license, visit
 <http://creativecommons.org/licenses/by-nc/1.0/>
